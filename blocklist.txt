@@ -1,0 +1,30 @@
+# StudyGuard blocklist
+# One Android package name per line. Lines starting with # are comments/ignored.
+# Edit this file in the GitHub web UI (or app) any time — StudyGuard re-checks it every ~60s.
+
+# Entertainment / video
+com.google.android.youtube
+com.google.android.youtube.tv
+
+# Browsers (block so he can't just browse YouTube/etc. through them)
+com.android.chrome
+org.mozilla.firefox
+com.sec.android.app.sbrowser
+com.opera.browser
+com.brave.browser
+
+# Social / messaging
+com.instagram.android
+com.facebook.katana
+com.facebook.orca
+com.whatsapp
+com.snapchat.android
+com.zhiliaoapp.musically
+com.ss.android.ugc.trill
+com.twitter.android
+com.reddit.frontpage
+com.discord
+
+# Games (add/remove as needed)
+com.roblox.client
+com.mojang.minecraftpe
